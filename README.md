@@ -51,10 +51,15 @@ Qi charger for iPhone, AirPods, and Apple Watch
 
 ## Olive Wood
 
-Height 13.5
+Represents a change from a thickness of 11.5 to 13.5.
+Material details: 15mm x 206mm x 90mm
+
+Face off from 15mm to 13.5mm. (Height 13.5)
 
 - Face-Off: 15mm, 1.5mm
 - Mounting Holes: 1.5mm, 23.5
 - Outer Profile: 1.5mm, 14.0
 - Top Plate Pocket: 1.5mm, 2.0mm
 - Coil Pocket: 3.5mm, 4.5mm
+
+
