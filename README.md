@@ -41,7 +41,7 @@ Qi charger for iPhone, AirPods, and Apple Watch
 ### Bottom
 
 - Plate Pocket: start = 13.0-11.5 = 1.5, depth = 1.0mm
-- PCB Pocket: start = 13.0-11.5+1.0 = 2.5, depth = 7.5mm
+- PCB Pocket: start = 13.0-11.5+1.0 = 2.5, depth = 5.0mm
 - Cable Pocket: start = 13.0-11.5+1.0+5.0 = 7.5mm, depth = 2.5mm
 - Puck Cable Pocket: start = 13.0-11.5+1.0+5.0 = 7.5mm, depth = 3.5mm
 - USB Board Pocket: start = 13.0-11.5+1.0 = 2.5, depth = 3.5mm
@@ -57,9 +57,21 @@ Material details: 15mm x 206mm x 90mm
 Face off from 15mm to 13.5mm. (Height 13.5)
 
 - Face-Off: 15mm, 1.5mm
+
+Top (`olive-top-pockets.tap`):
+
 - Mounting Holes: 1.5mm, 23.5
 - Outer Profile: 1.5mm, 14.0
 - Top Plate Pocket: 1.5mm, 2.0mm
 - Coil Pocket: 3.5mm, 4.5mm
+- Puck Pocket: 3.5mm, 6mm
 
+Bottom (`olive-bottom-pockets.tap`):
+
+- Bottom Plate Pocket: 1.5, 2.0
+- PCB Pocket: 3.5, 5.0
+- Cable Pocket: 8.5, 2.5
+- Puck Cable Pocket: 8.5, 3.5
+- USB Board Pocket: 3.5, 3.5
+- USB Socket Pocket: 7.0, 3.5
 
