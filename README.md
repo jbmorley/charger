@@ -21,7 +21,7 @@ Qi charger for iPhone, AirPods, and Apple Watch
 - Material thickness 12mm
 - Start 0mm
 - Cut depth 10mm
-- jbm-bed-mounting-holes-zero-top.tap
+- bed-mounting-holes-zero-top.tap
 
 ### Top
 
