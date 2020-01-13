@@ -135,7 +135,9 @@ _No washers are required as the board needs to sit flush with the case to ensure
 | Thread Diameter | 3.0              |           |
 | Thread Length   | 13.5 + 1.0 + 4.0 | 18.0      |
 
-_Trying with a 16.0 mm screw in the first instance.
+_Trying with a 16.0 mm screw in the first instance._
+
+https://www.mcmaster.com/90349A106
 
 ### Nuts (Brass) x 4
 
@@ -143,3 +145,5 @@ _Trying with a 16.0 mm screw in the first instance.
 | --------------- | ---------------- | --------- |
 | Thread Diameter | 3.0              |           |
 | Depth           | 2.0              |           |
+
+https://www.mcmaster.com/90690A037
