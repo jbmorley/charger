@@ -78,14 +78,16 @@ Bottom (`olive-bottom-pockets.tap`):
 
 # 3D Printed Case
 
-Shapeways print:
-- Had to file out the holes
-- Had to cut the washers
-- Rubber washers might have been easier?
-- What about laser cut pads for the charge plates?
-- Small shelf for the charging PCBs
+Remaining tasks coming from the Shapeways print:
 
-How about rounded corners?
+- [ ] Increase the diameter of the case threads (had to file out both the main body holes)
+- [ ] Smaller washers or rubber grommets (had to cut these down to size)
+- [ ] Laser cut spacers for the Qi charging pads
+- [ ] Adhesive strips for mounting the leather top
+- [ ] Add a small shelf for the Qi PCBs
+- [ ] Increase the size of the walls again
+- [ ] Add a recess for the charger
+- [ ] Increase the top wall by 0.5mm to ensure there's space for the ultrasuede
 
 # Hardware
 
