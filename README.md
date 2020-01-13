@@ -122,6 +122,7 @@ _The washers are required as the PCBs are double-sided and need to be distanced 
 
 ### Nuts (Brass) x 4
 
-Thread Diameter	3.0 mm
-Depth	2.0 mm
-
+| Feature         | Calculation (mm) | Size (mm) |
+| --------------- | ---------------- | --------- |
+| Thread Diameter | 3.0              |           |
+| Depth           | 2.0              |           |
