@@ -96,3 +96,13 @@ Bottom (`olive-bottom-pockets.tap`):
 | --------------- | ---------------- | --------- |
 | Thread Diameter | 3.0              |           |
 | Depth           | 2.0              |           |
+
+## Qi Charger PCB Mounting Washers (Nylon) x 8
+
+| Feature         | Calculation (mm) | Size (mm) |
+| --------------- | ---------------- | --------- |
+| Thread Diameter | 3.0              |           |
+| Thread Length   | 2.5 + 5.0        |           |
+| Depth           | 1.0              |           |
+
+_The washers are required as the PCBs are double-sided and need to be distanced from the base plane of the case._
