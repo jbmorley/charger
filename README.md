@@ -108,3 +108,20 @@ Bottom (`olive-bottom-pockets.tap`):
 | Depth           | 1.0              |           |
 
 _The washers are required as the PCBs are double-sided and need to be distanced from the base plane of the case._
+
+## Case Mounting
+
+### Bolts (Brass) x 4
+
+| Feature         | Calculation (mm) | Size (mm) |
+| --------------- | ---------------- | --------- |
+| Head Diameter   | 6.0              |           |
+| Head Depth      | 4.0              |           |
+| Thread Diameter | 3.0              |           |
+| Thread Length   | 13.5 + 1.0 + 4.0 | 18.0      |
+
+### Nuts (Brass) x 4
+
+Thread Diameter	3.0 mm
+Depth	2.0 mm
+
