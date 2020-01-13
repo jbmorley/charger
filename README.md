@@ -82,6 +82,7 @@ Bottom (`olive-bottom-pockets.tap`):
 
 ## Qi Charger PCB Mounting Bolts (Nylon) x 4
 
+| Feature         | Size (mm)    |
 | --------------- | ------------ |
 | Head Diameter	  | 6.0 mm       |
 | Head Depth      | 2.0 mm       |
