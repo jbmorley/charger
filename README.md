@@ -80,7 +80,9 @@ Bottom (`olive-bottom-pockets.tap`):
 
 18mm
 
-## Qi Charger PCB Mounting Bolts (Nylon) x 4
+## Qi Charger PCB Mounting
+
+### Bolts (Nylon) x 4
 
 | Feature         | Calculation (mm) | Size (mm) |
 | --------------- | ---------------- | --------- |
@@ -90,14 +92,14 @@ Bottom (`olive-bottom-pockets.tap`):
 | Thread Length   | 2.5 + 5.0        |           |
 
 
-## Qi Charger PCB Mounting Nuts (Nylon) x 4
+### Nuts (Nylon) x 4
 
 | Feature         | Calculation (mm) | Size (mm) |
 | --------------- | ---------------- | --------- |
 | Thread Diameter | 3.0              |           |
 | Depth           | 2.0              |           |
 
-## Qi Charger PCB Mounting Washers (Nylon) x 8
+### Washers (Nylon) x 8
 
 | Feature         | Calculation (mm) | Size (mm) |
 | --------------- | ---------------- | --------- |
