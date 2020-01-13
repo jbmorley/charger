@@ -76,9 +76,18 @@ Bottom (`olive-bottom-pockets.tap`):
 - USB Socket Pocket: 7.0, 3.5
 
 
-# Hardware
+# 3D Printed Case
 
-18mm
+Shapeways print:
+- Had to file out the holes
+- Had to cut the washers
+- Rubber washers might have been easier?
+- What about laser cut pads for the charge plates?
+- Small shelf for the charging PCBs
+
+How about rounded corners?
+
+# Hardware
 
 ## Qi Charger PCB Mounting
 
