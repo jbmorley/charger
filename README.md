@@ -75,3 +75,16 @@ Bottom (`olive-bottom-pockets.tap`):
 - USB Board Pocket: 3.5, 3.5
 - USB Socket Pocket: 7.0, 3.5
 
+
+# Hardware
+
+18mm
+
+## Qi Charger PCB Mounting Bolts (Nylon) x 4
+
+| Head Diameter	  | 6.0 mm       |
+| Head Depth      | 2.0 mm       |
+| Thread Diameter | 3.0 mm       |
+| Thread Length   | 2.5 + 5.0 mm |
+
+
