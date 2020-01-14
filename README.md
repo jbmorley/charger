@@ -88,6 +88,7 @@ Remaining tasks coming from the Shapeways print:
 - [ ] Increase the size of the walls again
 - [ ] Add a recess for the charger
 - [ ] Increase the top wall by 0.5mm to ensure there's space for the ultrasuede
+- [ ] cut out for micro usb connector in pcb mounting
 
 # Hardware
 
