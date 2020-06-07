@@ -80,15 +80,7 @@ Bottom (`olive-bottom-pockets.tap`):
 
 Remaining tasks coming from the Shapeways print:
 
-- [ ] Increase the diameter of the case threads (had to file out both the main body holes)
-- [ ] Smaller washers or rubber grommets (had to cut these down to size)
-- [ ] Laser cut spacers for the Qi charging pads
 - [ ] Adhesive strips for mounting the leather top
-- [ ] Add a small shelf for the Qi PCBs
-- [ ] Increase the size of the walls again
-- [ ] Add a recess for the charger
-- [ ] Increase the top wall by 0.5mm to ensure there's space for the ultrasuede
-- [ ] cut out for micro usb connector in pcb mounting
 
 # Hardware
 
