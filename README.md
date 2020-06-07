@@ -76,12 +76,6 @@ Bottom (`olive-bottom-pockets.tap`):
 - USB Socket Pocket: 7.0, 3.5
 
 
-# 3D Printed Case
-
-Remaining tasks coming from the Shapeways print:
-
-- [ ] Adhesive strips for mounting the leather top
-
 # Hardware
 
 ## Qi Charger PCB Mounting
