@@ -63,21 +63,3 @@ https://www.mcmaster.com/90349A106
 | Depth           | 2.0              |           |
 
 https://www.mcmaster.com/90690A037
-
-## Bill of Materials
-
-| Part | Supplier | Link | Cost | Quantity | Setup Costs | Shipping | Total | Cost |
-| ---------------------------------------------------------------------------------|
-| 3D Printed Case | Shapeways | $51.01 | 1 | $4.99 | $56.00|
-
-3D Printed Foot	Shapeways		$7.50	2			$15.00	Yes
-Universal Qi Wireless Charging Transmitter	Adafruit	https://www.adafruit.com/product/2162	$26.95	2		$6.40	$60.30	Yes
-Adafruit USB C Breakout Board - Downstream Connection	Adafruit	https://www.adafruit.com/product/4090	$2.95	1			$2.95	Yes
-Brass Socket Head Screw M3 x 0.50 mm Thread, 16 mm Long	McMaster-Carr	https://www.mcmaster.com/90349A106	$4.40	4		$7.67	$25.27	Yes
-Brass Hex Nut M3 x 0.5 mm Thread	McMaster-Carr	https://www.mcmaster.com/90690A037	$0.06	2			$0.13	Yes
-Apple Watch Magnetic Charging Cable (0.3m)	Apple	https://www.apple.com/shop/product/MX2G2AM/A/apple-watch-magnetic-charging-cable-03m?fnode=83	$31.47	1			$31.47	
-Laser-Cut Top Plate	Ponoko		$2.82	1	$9.00		$11.82	Yes
-Laser-Cut Bottom Plate	Ponoko		$2.47	1			$2.47	Yes
-Laser-Cut Fabric Top Black Ultrasuede	Ponoko		$2.65	1			$2.65	Yes
-								
-N.B. This sheet is missing internal bolts and washers
